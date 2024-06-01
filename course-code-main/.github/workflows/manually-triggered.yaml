@@ -9,7 +9,7 @@ on:
         default: "Default value"
       number:
         description: A number input
-        default: 4
+        default: 5
         type: number
       option:
         description: "An Options Input"
